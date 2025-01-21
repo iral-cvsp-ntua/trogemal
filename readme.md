@@ -81,7 +81,7 @@ A general-purpose tropical regression script.
 ---
 
 ### 3. **`tropical_regression_hoburg.py`**
-Implements tropical regression based on Hoburg's paper.  
+Implements tropical regression based on [this paper](https://link.springer.com/article/10.1007/s11081-016-9332-3).  
 - Two variants:
   - Vanilla regression.
   - K-Means (Jenks breaks) for slope detection.
@@ -90,7 +90,7 @@ Implements tropical regression based on Hoburg's paper.
 ---
 
 ### 4. **`tropical_regression_hannah.py`**
-Implements tropical regression based on Hannah's paper.  
+Implements tropical regression based on [this paper](https://arxiv.org/abs/1105.1924).  
 - Two variants:
   - Vanilla regression.
   - K-Means for slope detection.
